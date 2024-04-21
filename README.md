@@ -10,8 +10,7 @@ The task titled "Case Study 2: How Can a Wellness Technology Company Play It Sma
 
 The current repository contains several files and one folder used in the present analysis. Among the files included, there is a PDF containing the information related to the case study, the history and background. 
 
-Two solutions presented in a Python and R Jupiter Notebooks (feel free to run them using Kaggle). Finally, a folder called `reports` where all the final reports are stored.
-
+Two solutions presented in a Python and R Jupiter Notebooks (feel free to run them using Kaggle).
 ## Scenario
 
 The scenario is based on a company called Bellabeat, a high-tech manufacturer of health-focused products for women. The **hypothesis** is that the cofounder and Chief Creative Officer believes that analyzing smart
